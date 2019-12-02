@@ -82,7 +82,6 @@ APIS = {
     'mixnet': BASEURL,
     'postproc': BASEURL,
     'store': BASEURL,
-    'gateway': BASEURL,
     'visualizer': BASEURL,
     'voting': BASEURL,
 }
